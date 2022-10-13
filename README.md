@@ -12,5 +12,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: nel@nelcapetown.com
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: My Zen activity is cleaning my house 🧼🧽🧹
--->
+
 https://api.daily.dev/devcards/67c610fb1bfe41f38361ac7268cb071a.png?r=5qz
