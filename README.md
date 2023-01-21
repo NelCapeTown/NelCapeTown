@@ -1,9 +1,9 @@
 # Hi there 👋
 
-- 🔭 I’m working on a hobby project in my own time.  It will create an easy to use time capture utility that uses data from my Notion workspace and helps me to seamlessly log how I'm spending my time.
-- 🌱 I’m also preparing to write required exams to become Microsoft Azure certified.  
-- 👯 I was looking to collaborate on at least one thing during this Hacktoberfest.  The reality is that I need to get better at making time, specifically for open source contributions.  I need to shuffle my priorities a little bit.
-- 💬 Ask me about MS SQL, .NET with C#, algorithms/coding patterns and getting older...
+- 🔭 I'm a contractor, employed by [DVT](https://www.linkedin.com/company/dvt/mycompany/) and placed on projects at various clients.  Because of this, I get exposure to different technologies and the intricacies of how those are implemented at any specific client.  I have been a developer for more than thirty years.
+- 👨‍💻 I love writing code and I shy away from having to tell others what to do.  I was "promoted" to project manager in my late twenties and I really did not enjoy it.  It took me away from writing code and I had to check on others' work and make sure everyone stayed in line.  I understand very well what the Peter Principle is.
+- 🌱 I'm working towards various cloud certifications for Azure & AWS. 
+- 💬 Ask me about MS SQL, .NET with C#, MVC, ASP.NET, JavaScript, algorithms/coding patterns and getting older...
 - 📫 How to reach me: <a href="mailto:nel@nelcapetown.com">nel@nelcapetown.com</a>
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: My Zen place is where I go while cleaning my house 🧼🧽🧹  There is something very soothing about mopping floors, washing dishes, and getting rid of clutter - I guess it's like "wax on, wax off..."
